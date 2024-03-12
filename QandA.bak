@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 16.0.10.0 for Windows">
+<title>Q&amp;A</title>
+<link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
+<link rel="stylesheet" href="container_9A_2c_top.css" type="text/css" id="hpbcontainer">
+<link rel="stylesheet" href="main_9A_2c.css" type="text/css" id="hpbmain">
+<link rel="stylesheet" href="user.css" type="text/css" id="hpbuser">
+</head>
+<body id="hpb-template-09-01-01" class="hpb-layoutset-02">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1 style="text-align : right;" align="right">オールジャパンで医療被ばく防護に取り組む<font color="#ffffff">-</font><br>
+      医療被ばく研究情報ネットワーク（J-RIME）</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="index.html">J-RIME</a></div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- wrapper -->
+    <div id="hpb-wrapper">
+      <!-- page title -->
+      <div id="hpb-title" class="hpb-top-image">
+        <h2><span class="ja">Q&amp;A</span><span class="en">Q&amp;A</span></h2>
+      </div>
+      <!-- page title end --><!-- main -->
+      <div id="hpb-main">
+        <div class="hpb-parts-cnt-01 hpb-parts-cnt-style clearfix">
+          <h3>Q. DRLと比較する収集データは、標準体型（年齢/性別不問、体重50～60㎏）で10～20件のCTDI平均値でよろしいでしょうか？</h3>
+          <div class="hpb-parts-cbox-01 hpb-parts-cbox-style clearfix"><b>A.</b><br>
+          <u>体型について</u><br>
+          DRLs2015と比較する場合は、標準体型（成人/性別不問、体重50～60kg）で問題ないかと考えます。冠動脈CTのみ体重50～70kgの幅となっております。<br>
+          <br>
+          <u>サンプルについて</u><br>
+          比較対象のサンプル数については、10 件以上の標準的な検査撮影条件を収集することが望ましいとされていますが、ある程度大きいサンプル数で評価することで統計上標準体型の分布に近づくと考えられるため、体型を考慮しない場合はサンプル数が多い方が有利かと考えます<sup>1,2)</sup>。また多い方が有利な点として、同部位の検査について複数撮影者による条件設定（通常、夜勤、救急など）も考慮され、施設の代表値として理想に近づくと考えます。<br>
+          <br>
+          <u>CTDI値について</u><br>
+          比較しようとする施設の線量については、“自施設の標準的な線量”としており、“用いるべき線量は、自施設で得られた線量分布の平均値や中央値である（ここで、75パーセンタイル値は標準的な線量とは言い難い）”としております<sup>3)</sup>。<br>
+          例えば得られた値について、中央値と平均値があまりにもかい離している場合（サンプル数 大、体型考慮 無）などは、中央値による比較。体型や撮影条件が比較的同じ場合は、平均、中央値の比較どちらでもよいかと考えます（誤差範囲）。
+          <br>
+          CTDI値については、表示されているアクリルファントムサイズ（Φ16、Φ32またはSMALL,LARGE）に注意してください。 また、一部の古いCTモデルにおいてAECを利用した撮影の場合、”最大管電流”からCTDI値を算出しているモデルがあります。現在、すべてのメーカーのCTモデルではCTDI値は全スライスの平均管電流から算出しています。使用しているCTモデルのCTDI値の算出方法について注意する必要があります。<br>
+          <br>
+          </div>
+          <h3>Q. 今後のDRL改定に向けたデータ収集ではBMI等の項目は含まれますか？</h3>
+          <div class="hpb-parts-cbox-01 hpb-parts-cbox-style clearfix"><b>A.</b><br>
+          現状体型の考慮はしておりません。前述の通り充分なサンプル数とすることで、標準体型の分布に近づくと考えられるためです。また多くの施設からデータ収集時に身長、体重を併せて収集するのが困難であることなどの理由です。<br>
+          しかし小児や特定の疾患については体型の考慮も必要と考えますので、将来的に多くの情報（性別、年齢、撮影部位、SDなど）を得られる仕組みを研究中です。海外ではBMIによる線量収集により、各BMIグループで有意な差があり、大規模な電子的な線量収集の場合体型の考慮も必要であると報告しております<sup>4)</sup>。 <br>
+          <br>
+          <h3>参考文献</h3>
+            <ol>
+              <li>最新の国内実態調査結果に基づく 診断参考レベルの設定、 参考資料 診断参考レベル(DRLs 2015) 設定の報告, 2.3結果と考察（DRL設定の根拠、限界）,
+              p. 12.
+              <li>EUROPEAN GUIDELINES ON QUALITY CRITERIA FOR DIAGNOSTIC RADIOGRAPHIC IMAGES,
+              EUR16260 EN, Chapter 3: Quality Criteria Implementation and Audit Guidelines,
+              p. 54.
+              <li>診断参考レベル運用マニュアル(2016年10月1日), 日本放射線技術学会，1.5 DRLの使用について，p. 3.
+              <li>Boos J, Lanzman RS, Meineke A et al. Dose monitoring using the DICOM structured report: assessment of the relationship between cumulative radiation exposure and BMI in abdominal CT. Clin Radiol. 2015 Feb;70(2):176-82.
+            </ol>
+            <br>
+          </div>
+          <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
+        </div>
+      </div>
+      <!-- main end -->
+    </div>
+    <!-- wrapper end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">contents</h3>
+      <ul>
+        <li id="nav-toppage"><a href="index.html"><span class="ja">トップページ</span><span class="en">top&nbsp;page</span></a>
+        <li id="nav-profile"><a href="profile.html"><span class="ja">プロフィール</span><span class="en">profile</span></a>
+        <li id="nav-reoprt"><a href="report.html"><span class="ja">活動報告</span><span class="en">report</span></a>
+        <li id="nav-working"><a href="working.html"><span class="ja">ワーキンググループ</span><span class="en">working</span></a>
+        <li id="nav-schedule"><a href="QandA.html"><span class="ja">Q&amp;A</span><span class="en">QandA</span></a>
+        <li id="nav-information"><a href="link.html"><span class="ja">リンク・資料集</span><span class="en">information</span></a>
+      </ul>
+    </div>
+    <!-- navi end --><!-- aside -->
+    <div id="hpb-aside">
+      <!--
+      <div id="banner">
+        <h3 class="hpb-c-index">バナースペース</h3>
+        <ul>
+          <li><a href="schedule.html" id="banner-schedule"><span class="ja">スケジュール</span><span class="en">schedule</span></a>
+          <li><a href="admission.html" id="banner-admission"><span class="ja">入会ご案内</span><span class="en">admission</span></a>
+          <li><a href="#" id="banner-blog"><span class="ja">代表ブログ</span><span class="en">blog</span></a>
+        </ul>
+      </div>
+-->
+      <div id="associationinfo">
+        <h3>医療被ばく研究情報ネットワーク<br>
+        （J-RIME）</h3>
+        <p>事務局　所在地<br>
+        〒263-8555<br>
+        千葉県千葉市稲毛区穴川4-9-1<br>
+        国立研究開発法人<br>
+        量子科学技術研究開発機構<br>
+        量子生命・医学部門<br>
+        放射線医学研究所<br>
+        放射線規制科学研究部</p>
+        <p>E-mail: <img src="e-mail.png" width="164" height="18" border="0"></p>
+      </div>
+    </div>
+    <!-- aside end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerMain">
+      <p>copyright&copy;20XX&nbsp;&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<!-- container end --></body>
+</html>
